@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bankerbot
+    name: Ob2Cloud
     env: docker
     repo: https://github.com/xbinner18/OpenBullet2.git
     region: oregon
