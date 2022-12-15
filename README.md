@@ -8,6 +8,9 @@ Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-
 
 **IMPORTANT!** Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
 
+# Deploy to render
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 # Download and setup
 Refer to [this guide](https://discourse.openbullet.dev/t/wip-how-to-download-and-start-openbullet-2/29) on the official forum.
 
